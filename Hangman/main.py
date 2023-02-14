@@ -61,6 +61,6 @@ while isWin and lives > 0: #if the player didn't win and the lives stay greater 
     guessed_letters.append(guess) #adding the old letter we guessed to to the (guessed_letters) list
 
 #IDK if this is the best way to make a hangman game but put this in ur mind 
-#i programmed this cute programe in 3 hour and just in 7 days of learning python
+#i programmed this cute program in 3 hour and just in 7 days of learning python
 #u can use my code when u want and as u need not matter with me but...
 #Game Developed buy (Brimo Battaro) :O
