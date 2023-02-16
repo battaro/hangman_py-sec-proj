@@ -21,7 +21,8 @@ for _ in range(len(chosen_word)):
     word_on_list += "_"
 
 #The game 
-while isWin and lives > 0: #if the player didn't win and the lives stay greater than zero stay on the game
+#Update -- i forget to write (not) on isWin lol 
+while not isWin and lives > 0: #if the player didn't win and the lives stay greater than zero stay on the game
     
     guess = input("Guess a letter: ").lower() #input the guess letter 
 
