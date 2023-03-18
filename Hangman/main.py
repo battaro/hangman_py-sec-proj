@@ -64,4 +64,4 @@ while not isWin and lives > 0: #if the player didn't win and the lives stay grea
 #IDK if this is the best way to make a hangman game but put this in ur mind 
 #i programmed this cute program in 3 hour and just in 7 days of learning python
 #u can use my code when u want and as u need not matter with me but...
-#Game Developed buy (Brimo Battaro) :O
+#Game Developed by (Brimo Battaro) :O
